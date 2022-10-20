@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sowjanyavm.github.io/csb-d9ik4n/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sowjanyavm.github.io/csb-d9ik4n/static/js/main.f9c171b2.chunk.js",
+    "main.js.map": "https://sowjanyavm.github.io/csb-d9ik4n/static/js/main.f9c171b2.chunk.js.map",
+    "runtime-main.js": "https://sowjanyavm.github.io/csb-d9ik4n/static/js/runtime-main.df0f70d5.js",
+    "runtime-main.js.map": "https://sowjanyavm.github.io/csb-d9ik4n/static/js/runtime-main.df0f70d5.js.map",
+    "static/js/2.9ef1949a.chunk.js": "https://sowjanyavm.github.io/csb-d9ik4n/static/js/2.9ef1949a.chunk.js",
+    "static/js/2.9ef1949a.chunk.js.map": "https://sowjanyavm.github.io/csb-d9ik4n/static/js/2.9ef1949a.chunk.js.map",
+    "index.html": "https://sowjanyavm.github.io/csb-d9ik4n/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sowjanyavm.github.io/csb-d9ik4n/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9ef1949a.chunk.js.LICENSE.txt": "https://sowjanyavm.github.io/csb-d9ik4n/static/js/2.9ef1949a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df0f70d5.js",
+    "static/js/2.9ef1949a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f9c171b2.chunk.js"
+  ]
+}
